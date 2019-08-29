@@ -9,6 +9,7 @@
 int main()
 {
   printf("Bryce\n");
+  printf("Computer Science\n");
 
   return 0;
 }
