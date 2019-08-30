@@ -9,7 +9,7 @@
 int main()
 {
   printf("Bryce\n");
-  printf("Computer Science\n");]
+  printf("Computer Science\n");
   printf("Andrew\n");
   printf("Computer Science\n");
 
