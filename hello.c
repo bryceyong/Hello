@@ -13,5 +13,8 @@ int main()
   printf("Andrew\n");
   printf("Computer Science\n");
 
+  printf("Jackelyn\n");
+  printf("Computer science\n");
+
   return 0;
 }
